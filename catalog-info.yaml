@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: yb-iot-fleet-management
+  annotations:
+    github.com/project-slug: yogendra/yb-iot-fleet-management
+spec:
+  type: other
+  lifecycle: unknown
+  owner: yogendra
